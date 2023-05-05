@@ -1,6 +1,4 @@
 # IkigAI-Agent
-IkigAI-Agent: Discovering purpose for AI agents within the Autodidactic AI framework
-# IkigAI-Agent
 
 ## Overview
 IkigAI-Agent is a minimal viable product (MVP) designed to discover purpose for AI agents within the Autodidactic AI framework. The goal of this project is to provide a simple yet effective way for AI agents to understand their roles and responsibilities, aligning them with their "ikigai" or reason for being.
@@ -19,10 +17,10 @@ To get started with IkigAI-Agent, please follow the installation and usage instr
 We welcome contributions to IkigAI-Agent! Whether you're interested in improving the code, adding new features, or providing feedback, your input is valuable to us. Please see the CONTRIBUTING.md file for guidelines on how to contribute to this project.
 
 ## License
-IkigAI-Agent is released under the [LICENSE NAME]. For more information, please see the LICENSE file.
+IkigAI-Agent is released under the MIT License. For more information, please see the LICENSE file.
 
 ## Contact
-For questions, comments, or suggestions, please reach out to the IkigAI-Agent team at [CONTACT INFORMATION].
+For questions, comments, or suggestions, please reach out to the IkigAI-Agent team at the OpenAgile Solutions website: [https://www.openagilesolutions.com/]
 
 ## Acknowledgments
 We would like to thank the Autodidactic AI community for their support and contributions to this project.
