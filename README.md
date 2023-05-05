@@ -24,3 +24,21 @@ For questions, comments, or suggestions, please reach out to the IkigAI-Agent te
 
 ## Acknowledgments
 We would like to thank the Autodidactic AI community for their support and contributions to this project.
+
+## Setup
+
+1. Clone this repository.
+2. Rename the `.env_template` file to `.env` and fill in the required values.
+3. Install the dependencies: `pip install -r requirements.txt` (if you have a requirements file).
+4. Run your project.
+
+For more examples and use cases, visit our [blog](https://www.openagilesolutions.com/blog).
+
+## Setup
+
+1. Clone this repository.
+2. Rename the `.env_template` file to `.env` and fill in the required values.
+3. Install the dependencies: `pip install -r requirements.txt` (if you have a requirements file).
+4. Run your project.
+
+For more examples and use cases, visit our [blog](https://www.openagilesolutions.com/blog).

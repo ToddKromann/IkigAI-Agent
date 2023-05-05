@@ -105,4 +105,4 @@ Thank you for your interest in contributing to this project! All contributions a
 """
 
 with open("CONTRIBUTING.md", "w") as contributing_file:
-    contributing_file.write(contrib
+    contributing_file.write(contributing_content)
